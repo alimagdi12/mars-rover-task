@@ -38,7 +38,7 @@ A TypeScript implementation of a NASA-style Mars Rover control system that proce
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/AliMagdi/mars-rover-ts.git
+git clone https://github.com/alimagdi12/mars-rover-task.git
 cd mars-rover-ts
 
 # Install dependencies
@@ -103,5 +103,3 @@ TypeDoc (^0.25.0)
 
 📜 License
 MIT License © 2025 AliMagdi
-
-
